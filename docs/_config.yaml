@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-chirpy
+theme: jekyll-theme-midnight
 title: Alice and Bob in the Land of Transformers
 description: A little book on the magic of Machine Learning
 author: Bruno Oliveira
